@@ -3,3 +3,4 @@ Before you run main.py, you have to download python and run this commands in you
 1. pip install customtkinter
 2. pip install pillow
 (I hope that's all, if not, contact me please)
+===
