@@ -9,7 +9,7 @@ root = Tk()
 class Globals():
     username = None
     password = None
-    SignedIn = False
+    SignedIn = False 
     photo_added = False
     photo = None
     system_language = None
