@@ -2,4 +2,4 @@ Hello! I'm very happy because of you downloaded my OS! It's in development, so s
 Before you run main.py, you have to download python and run this commands in your terminal:
 1. pip install customtkinter
 2. pip install pillow
-(I hope that's all)
+(I hope that's all, if not, contact me)
